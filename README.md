@@ -1,5 +1,5 @@
 # Javascript Fundamentals
-Conceptos básicos e intermedios de JS, una recopilación para practicar y etender diferentes conceptos fundamentales del lenguaje Javascript. 
+Conceptos básicos e intermedios de JS, una recopilación para practicar y entender diferentes conceptos fundamentales del lenguaje Javascript. 
 
  >Todos los scripts contienen apuntes personales en español para una mejor comprensión del concepto.
 
